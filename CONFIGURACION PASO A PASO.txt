@@ -75,7 +75,7 @@ do write
 exit
 
 ===========================================================
-CONFIGURACION DE ENRUTAMIENTO DINÁMICO RIPV2 A CADA ROUTER
+CONFIGURACION DE ENRUTAMIENTO ESTÁTICO IPROUTE A CADA ROUTER
 ===========================================================
 
 ========
@@ -129,3 +129,4 @@ Felicidades
 Ing. Pablo palacios
 
 ======================
+
